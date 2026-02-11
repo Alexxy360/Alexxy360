@@ -1,7 +1,7 @@
 # 👨‍💻 Hi, I'm Alex!
 
 ### 🎓 Mobile App Engineering Student
-I'm a passionate developer focused on creating immersive and high-performance mobile experiences. Currently diving deep into the world of **Swift**.
+I'm a passionate developer focused on creating immersive mobile experiences. Currently diving deep into the world of **Swift**.
 
 ---
 
