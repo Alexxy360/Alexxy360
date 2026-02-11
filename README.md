@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👨‍💻 Hi, I'm Alex!
 
-<!--
-**Alexxy360/Alexxy360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Mobile App Engineering Student
+I'm a passionate developer focused on creating immersive and high-performance mobile experiences. Currently diving deep into the world of **Swift**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile** | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=flat-square&logo=swift&logoColor=white) |
+
+---
+
+### 📡 Currently Working On: **Echoes**
+
+A hyper-local social experience inspired by the atmospheric soundscapes of **Pink Floyd**. 
+* **Core:** SwiftUI + Firebase Firestore.
+* **Vibe:** Submerged, organic, and real-time.
+* **Status:** In active development (MVP phase).
+
+---
+
+### 📫 Reach Me:
+* **LinkedIn:** www.linkedin.com/in/alexander-gabrysiak-509a843a8
